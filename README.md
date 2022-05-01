@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisina-t
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code in Pytohn
+- 🌱 I’m currently learning how to code in Python
 - 📫 reach me at https://www.linkedin.com/in/alisina-tabish-0b5239239/
 <!---
 alisina-t/alisina-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
